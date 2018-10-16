@@ -125,6 +125,11 @@ body {
 I hope you like it! If you have any questions about this implementation feel free to ask me!
 You can clone this repository and run it on your localhost by running the commands below.
 
+You can also learn more using these references:
+- https://daneden.github.io/animate.css/
+- https://vuejs.org/v2/guide/transitions.html
+- https://router.vuejs.org/guide/advanced/transitions.html
+
 ## Build Setup
 
 ``` bash
